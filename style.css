@@ -18,3 +18,21 @@ body{
     background-color: lightpink;
 }
 
+#logo{
+    width: 300px;
+    margin: 0;
+    padding: 15;
+}
+
+ul{
+    text-align: inherit;
+    color:aliceblue
+}
+
+.cabecalho {
+    background-color: aliceblue;
+    margin: 0;
+    padding: 15%;
+
+}
+
